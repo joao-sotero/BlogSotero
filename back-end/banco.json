@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "sotero",
+      "mensagem": "To aqui FI"
+    },
+    {
+      "id": 2,
+      "nome": "juliana",
+      "mensagem": "Eu também FI"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "mensagem": "Eu não to aqui, mas gostaria"
+    },
+    {
+      "nome": "Diego",
+      "mensagem": "Meu deus",
+      "id": 4
+    }
+  ]
+}

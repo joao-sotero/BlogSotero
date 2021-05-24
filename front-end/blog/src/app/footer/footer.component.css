@@ -1,0 +1,27 @@
+.social-network{  
+     list-style: none; /*tira o ponto da listagem desordenada */
+     padding: 0px;
+}
+
+.social-network > li{
+    display: inline; /*deixa os icons das redes sociais em linha*/
+    padding:10px;
+    margin: 0px;
+    font-size: 35px;
+}
+
+.icoFacebook, .icoInstagram, .icoLinkedin{
+    color: white;
+}
+
+.icoFacebook:hover{ /* evento de passar o mouse */
+    color:#3b5998;
+}
+
+.icoInstagram:hover{
+    color:#c13584;
+}
+
+.icoLinkedin:hover{
+    color:#0072b1;
+}
